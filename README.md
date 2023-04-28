@@ -1,3 +1,3 @@
 # Bash_Scripts
-Here are some of my bash scripts I'm learing Linux shell at the momoent(10.2022) and I'm testing capabilities of bash
+Short simple scripts made for OS course at my university 
 I will uploade some of my work here
